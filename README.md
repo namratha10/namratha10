@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
+  <h1><span class="wave">👋</span> Hey there, I'm Namratha!</h1>
+  <p>Embracing the world of coding with creativity and curiosity.</p>
+</div>
 
-<!--
-**namratha10/namratha10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌸 About Me
 
-Here are some ideas to get you started:
+I'm Namratha – a software engineer on a journey of growth and exploration. I'm on a mission to make life smoother by coding out my everyday problems. From streamlining my morning routine with a custom note taking app to building a budget tracker that helps me manage expenses, coding empowers me to shape my world to my liking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+
+- 📦 [Note-ary](https://github.com/namratha10/NotesApp): A custom task manager to streamline daily activities.
+- 📦 SpendSense: An expense tracker to keep my finances on track.
+
+### :speech_balloon: Contact Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/namratha-nr10/)
+- 🎨 [My Website](https://www.yourwebsite.com)
+
+<div align="center">
+  <p>Thanks for dropping by! 🌟</p>
+</div>
