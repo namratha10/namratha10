@@ -10,7 +10,7 @@ I'm a software engineer on a journey of growth and exploration. I'm on a mission
 ### 🛠️ Projects
 
 - 📦 [Note-ary](https://github.com/namratha10/NotesApp): A custom task manager to streamline daily activities.
-- 📦 SpendSense: An expense tracker to keep my finances on track.
+- 📦 [SpendSense](https://github.com/namratha10/Expense-Tracker): An expense tracker to keep my finances on track.
 
 ### :speech_balloon: Contact Me
 
