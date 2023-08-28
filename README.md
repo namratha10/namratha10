@@ -15,7 +15,7 @@ I'm a software engineer on a journey of growth and exploration. I'm on a mission
 ### :speech_balloon: Contact Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/namratha-nr10/)
-- 🎨 [My Website](https://www.yourwebsite.com)
+- 🎨 [My Website](https://emerald-marquess-a71.notion.site/Hi-I-m-Namratha-a9f51b7caa604f8b9f74c57d49d8f85e)
 
 <div align="center">
   <p>Thanks for dropping by! 🌟</p>
