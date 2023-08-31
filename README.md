@@ -15,7 +15,6 @@ I'm a software engineer on a journey of growth and exploration. I like to make l
 
 ### :speech_balloon: Contact Me
 
-- 📧 [Email](mailto:namratha.nr10@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/namratha-nr10/)
 - 🎨 [My Portfolio](https://namratha.wiki/)
 
