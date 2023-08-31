@@ -5,17 +5,17 @@
 
 ### 🌸 About Me
 
-I'm a software engineer on a journey of growth and exploration. I'm on a mission to make life smoother by coding out my everyday problems. From streamlining my morning routine with a custom note taking app to building a budget tracker that helps me manage expenses, coding empowers me to shape my world to my liking.
+I'm a software engineer on a journey of growth and exploration. I like to make life smoother by coding out my everyday problems. From building a custom note taking app to developing a yelp clone, the world of coding fascinates me, and I relish each step of exploration it offers, one line of code at a time.
 
 ### 🛠️ Projects
 
-- 📦 [Note-ary](https://github.com/namratha10/NotesApp): A custom task manager to streamline daily activities.
-- 📦 [SpendSense](https://github.com/namratha10/Expense-Tracker): An expense tracker to keep my finances on track.
+- 📝 [Notes](https://github.com/namratha10/NotesApp): A custom note taking app to streamline organize thoughts.
+- 🍔 [Real-Delis](https://github.com/namratha10/yelp-clone): A Yelp clone that helps users discover and review local restaurants.
 
 ### :speech_balloon: Contact Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/namratha-nr10/)
-- 🎨 [My Website](https://emerald-marquess-a71.notion.site/Hi-I-m-Namratha-a9f51b7caa604f8b9f74c57d49d8f85e)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/namratha-nr10/)
+- 🎨 [My Portfolio](https://namratha.wiki/)
 
 <div align="center">
   <p>Thanks for dropping by! 🌟</p>
