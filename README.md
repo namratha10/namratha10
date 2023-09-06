@@ -11,7 +11,7 @@ I'm a software engineer on a journey of growth and exploration. I like to make l
 
 - 🍔 [Real Delis](https://github.com/namratha10/yelp-clone): A Yelp clone that helps users discover and review local restaurants.
 - 📝 [Notes](https://github.com/namratha10/NotesApp): A custom note taking app to organize thoughts.
-- ✂️ [URL Shortner](https://github.com/namratha10/url-shortener):- Transform long URLs into bite-sized links.
+- ✂️ [URL Shortner](https://github.com/namratha10/url-shortener): Transform long URLs into bite-sized links.
 
 ### :speech_balloon: Contact Me
 
